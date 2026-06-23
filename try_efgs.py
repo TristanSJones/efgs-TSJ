@@ -14,7 +14,7 @@ J Cheminform (2017) 9:36; DOI: 10.1186/s13321-017-0225-z
 
 from rdkit import Chem
 from rdkit.Chem.Draw import IPythonConsole
-from chembl_structure_pipeline import standardizer as sdz
+#from chembl_structure_pipeline import standardizer as sdz
 from datetime import datetime
 from IPython.display import Image
 from PIL import Image as pilImage
